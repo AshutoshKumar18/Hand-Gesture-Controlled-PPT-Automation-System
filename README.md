@@ -1,4 +1,4 @@
-# 🖐️ Hand Gesture Controlled Presentation Tool
+# 🖐️ 3D-Hand-Tracking
 
 This project allows you to **control PowerPoint presentations using hand gestures** in real time, using your webcam and OpenCV. The presentation slides are converted into images, and you can navigate them, draw annotations, and undo drawings using intuitive hand gestures.
 
@@ -16,7 +16,7 @@ This project allows you to **control PowerPoint presentations using hand gesture
 
 ## 📁 Folder Structure
 
-Hand-Gesture-Presentation/ │ ├── Presentation/ # Folder where slide images are stored ├── main.py # Main Python script └── README.md # Project documentation
+3D-Hand-Tracking/ │ ├── Presentation/ # Folder where slide images are stored ├── main.py # Main Python script └── README.md # Project documentation
 
 
 ## 🚀 Getting Started
@@ -36,7 +36,7 @@ Make sure you have the following installed:
 
 1. Clone the repository:
 
-git clone https://github.com/ChAtulKumarPrusty/Hand-Gesture-Controlled-Presentation-Tool.git
+git clone https://github.com/AshutoshKumar18/3D-Hand-Tracking.git
 cd hand-gesture-presentation
 
 Install the required packages:
@@ -69,7 +69,7 @@ OpenCV - For image processing.
 Microsoft COM API - For PowerPoint automation.
 
 👨‍💻 Author
-Developed by Ch Atul Kumar Prusty
+Developed by Ashutosh Kumar Ranjan
 
 ---
 
