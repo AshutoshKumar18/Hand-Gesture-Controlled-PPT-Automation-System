@@ -36,7 +36,7 @@ Make sure you have the following installed:
 
 1. Clone the repository:
 
-git clone https://github.com/AshutoshKumar18/3D-Hand-Tracking.git
+git clone https://github.com/AshutoshKumar18/Hand-Gesture-Controlled-PPT-Automation-System.git
 cd hand-gesture-presentation
 
 Install the required packages:
